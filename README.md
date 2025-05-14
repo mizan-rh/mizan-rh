@@ -12,7 +12,7 @@ I'm a frontend-based full-stack developer from Bangladesh. I love web developmen
 [![](https://visitcount.itsvg.in/api?id=mizan-rh&icon=5&color=12)](https://visitcount.itsvg.in)
 ![focus](https://img.shields.io/badge/focus-MERN%20Stack-brightgreen)
 ![living](https://img.shields.io/badge/living-Dhaka-blue)
-![age](https://img.shields.io/badge/Age-24-blueviolet)
+![age](https://img.shields.io/badge/Age-26-blueviolet)
 [![Github](https://img.shields.io/github/followers/mizan-rh?label=Follow&style=social)](https://github.com/mizan-rh)
 
 <h1> About Me </h1>
